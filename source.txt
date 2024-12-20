@@ -1,0 +1,4 @@
+store
+auto
+mouse1
+dog
